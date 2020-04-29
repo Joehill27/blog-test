@@ -4,7 +4,9 @@ module.exports = {
     title: `Gatsby Starter Personal Blog`,
     author: `Joseph Hill`,
     description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://fervent-cray-4bc19c.netlify.app/`,
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    social: {
+    },
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
